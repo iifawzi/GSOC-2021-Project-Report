@@ -61,8 +61,4 @@ I have also written blogs every week to share my GSoC work, the problems I faced
 
 ### Thank You
 
-Time flew so fast, couldn't imagine that the previous 4 months flew that fast! I've really enjoyed, and learned a lot of stuff from you all.
-
-everything is done, couldn't be done without your motivation, guidance, and our great discussions in slack and in the PRs. Thank you will never be enough for this
-
-great experience, you were so friendly, welcoming, and supportive since day one. Thank you! 
+Time flew so fast, couldn't imagine that the previous 4 months flew that fast! I've really enjoyed, and learned a lot of stuff from you all, everything is done, couldn't be done without your motivation, guidance, and our great discussions in slack and in the PRs. Thank you will never be enough for this great experience, you were so friendly, welcoming, and supportive since day one. Thank you! 
