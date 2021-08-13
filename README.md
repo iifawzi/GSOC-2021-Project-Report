@@ -56,7 +56,7 @@ I have also written blogs every week to share my GSoC work, the problems I faced
   
 ### My code contributions
   I've just listed the main changes, you can find all the changes that I've added to the system from the Pull Requests: 
-- [Pull requests to server side repository](https://github.com/EOS-uiux-Solutions/eos-icons-api/pulls/iifawzi)
+- [Pull requests by @iifawzi](https://github.com/EOS-uiux-Solutions/eos-icons-api/pulls/iifawzi)
 
 
 ### Thank You
