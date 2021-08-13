@@ -12,7 +12,7 @@ Final report for my Google Summer of Code project with Python Software Foundatio
 Previously the API was in charge of generating new icons sets, customizing SVGs and PNGs.
 We wanted to extend the functionality by adding new features like generating SVG code-snippets, base64 encoded images, allow users to recommend a new tags or categories for an icon, cache requests for better performance while serving custom versions of icons, and most importantly unifying our micro-services in a single REST API that will take care of custom icon pack generator, icon information (tags, description, etc.) and potentially filtering/searching.
 
-#### What changes made to the system?
+#### Overview of the project: 
 
 ![](./assets/overview.png)
 
