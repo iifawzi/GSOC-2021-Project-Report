@@ -19,7 +19,7 @@ We wanted to extend the functionality by adding new features like generating SVG
 #### Main changes: 
 
 - The code got refactored/re-written in `typescript`.
-- The system is now depending on the database as main source of truth. 
+- The system is now depending on the Mongo database as main source of truth. 
 - Caching layer is introduced to make the process of fetching the icons faster.
 - Algolia services is introduced to be used for the search queries. 
 - A validation layer using `Joi` is added to validate all the incoming requests. 
@@ -56,7 +56,7 @@ I have also written blogs every week to share my GSoC work, the problems I faced
   
 ### My code contributions
   I've just listed the main changes, you can find all the changes that I've added to the system from the Pull Requests: 
-- [Pull requests by @iifawzi](https://github.com/EOS-uiux-Solutions/eos-icons-api/pulls/iifawzi)
+- [Pull requests by iifawzi](https://github.com/EOS-uiux-Solutions/eos-icons-api/pulls/iifawzi)
 
 
 ### Thank You
